@@ -25,7 +25,7 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
-  position: fixed;
+  position: absolute;
   margin-left: 400px;
   margin-top: 200px;
   display: flex;
