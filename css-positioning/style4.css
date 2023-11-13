@@ -9,6 +9,9 @@ body {
   width: 400px;
   height: 400px;
   background-color: red;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
 }
 
 .two {
@@ -21,6 +24,10 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
+  position: fixed;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
 }
 
 .four {
