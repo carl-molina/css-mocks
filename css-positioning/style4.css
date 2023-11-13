@@ -25,6 +25,8 @@ body {
   height: 200px;
   background-color: green;
   position: fixed;
+  left: 5px;
+  top: 5px;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
